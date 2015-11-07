@@ -1,0 +1,18 @@
+{
+  "name" : "fis-preprocessor-juicer-parse",
+  "description" : "fis插件，在fis编译的preprocessor阶段将数据和juicer模版引擎渲染为纯HTML页面",
+  "version" : "0.1.0",
+  "author" : "bluestrings <yanbin01@baidu.com>",
+  "keywords": [ "fis", "juicer" ],
+  "main" : "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluestrings/fis-prepcosessor-juicer-parse.git"
+  },
+  "dependencies": {
+    "juicer":""
+  },
+  "engines" : {
+    "node" : ">= 0.8.0"
+  }
+}
